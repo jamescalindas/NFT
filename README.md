@@ -16,7 +16,7 @@ To run the program, Transfer your Solidity code for the token to Remix - Ethereu
 
 James B. Calindas  
 2.6 BSIT | NTC  
-Email: 4222002435@ntc.edu.ph
+Email: 422002435@ntc.edu.ph
 
 ## License
 
