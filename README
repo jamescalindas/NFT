@@ -10,11 +10,7 @@ This project is designed to highlight the practical skills and comprehensive und
 
 ### Executing the Program
 
-To run the program, follow these steps:
-
-1. **Copy the Token.sol file**: Transfer your Solidity code for the token to Remix - Ethereum IDE. Remix is an easy-to-use tool with a graphical interface for developing smart contracts.
-
-2. **Deploy the Token**: Deploy your token in the Remix virtual environment to observe its functionality.
+To run the program, Transfer your Solidity code for the token to Remix - Ethereum IDE. Remix is an easy-to-use tool with a graphical interface for developing smart contracts.  Deploy your token in the Remix virtual environment to observe its functionality.
 
 ## Authors
 
